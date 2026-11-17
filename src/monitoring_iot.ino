@@ -3,8 +3,8 @@
 #include "DHT.h"
 
 // Ganti dengan nama dan password Wi-Fi kamu
-const char* ssid = "punyaku";
-const char* password = "punyakulohini";
+const char* ssid = "NAMA_WIFI";
+const char* password = "PASSWORD_WIFI";
 
 // Pengaturan DHT22
 #define DHTPIN 4
